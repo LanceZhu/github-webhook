@@ -1,0 +1,19 @@
+{
+  "name": "github-webhook",
+  "version": "0.0.1",
+  "description": "github webhook node.js server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "webhook",
+    "server"
+  ],
+  "author": "LanceZhu",
+  "license": "MIT",
+  "dependencies": {
+    "github-webhook-handler": "^1.0.0"
+  }
+}
